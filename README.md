@@ -1,4 +1,5 @@
-## Hi there 👋
+Frontend Developer | React.js, Next.js, Tailwind CSS | Modern UI & UX Focused
+
 
 <!--
 **ErtugrulArac/ErtugrulArac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
